@@ -3,7 +3,6 @@
     <h1 align="center">Index of Django Projects</h1>
 </p> 
 <br/>
- 
   | Project Code | Name | Repo link                                                      |
   |:--------------|:--------------:|:--------------------------------------------------------------:|
   |Graduation Project|FullStack Blog BackEnd Side| [Repository](https://github.com/raymondaksu/Graduation_BackEnd)<br/>[Live on Heroku BackEnd](https://fs-blogapp-django.herokuapp.com/)<br/>[Live on Heroku FullStack](https://fs-blogapp.herokuapp.com/)|  
